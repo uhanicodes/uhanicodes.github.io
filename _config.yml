@@ -1,0 +1,25 @@
+title:              Umme Hani
+email:              
+description:        Aspiring Full Stack Web Developer
+author:             Umme Hani
+baseurl:
+url:
+
+# Social Profiles
+twitter_username:   
+github_username:    uhanicodes
+facebook_username:  
+instagram_username:  
+linkedin_username:  umme-hani-bd
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
