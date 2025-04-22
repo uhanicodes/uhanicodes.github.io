@@ -9,6 +9,7 @@ I hold a masters in mathematics. After spending my early years in other professi
 * _Problem solving_
 * _HTTP and REST_
 * _HTML & CSS_
+* _React & Next_
 * _Node.js, Express, & Pug_
 * _MySQL_
 * _VSCode (with Vim)_
@@ -32,10 +33,14 @@ I started by familiarizing myself with the fundamentals of HTTP protocol, the fo
 
 After getting bit more handy with MySQL relational database, I wish to learn a NoSQL database like MongoDB.
 
-So far I used Pug as my templating engine. After learning raw client-side JavaScript, currently I am focused on _React_ and _Next_.
+Besides raw client-side JavaScript, I am familiar with _React_ and _Next_ frameworks.
 
 VSCode (with Vim) is my primary IDE and I use Postman to test my APIs. I use Git and GitHub for version control. Besides the Git basics, I am familiar with the _pull request_ workflow.
 
 # Productivity
 
 I use Trello to manage my tasks as so far I am working alone. I use Miro to create diagrams and for brainstorming ideas.
+
+# Portfolio projects
+
+I developed a [school management app](https://github.com/uhanicodes/react-school-mgmt) with React and Next. I am still improving it.
